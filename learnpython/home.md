@@ -1,4 +1,8 @@
 tags: 
 title: Learn Python
 
-生命短暂，我用Python。
+Learn Python Home。
+
+联系我：
+
+  + email： zzh.coder@qq.com
