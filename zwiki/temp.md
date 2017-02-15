@@ -1,5 +1,5 @@
-title: 黑客军团
 tags: 
+title: 黑客军团
 
 ftp://e:e@dq.dl1234.com:8006/[电影天堂www.dy2018.com]黑客军团 第一季第01集[中英双字].mp4
 ftp://a:a@dq.dl1234.com:8006/[电影天堂www.dy2018.com]黑客军团第一季第02集[中英双字].mp4
@@ -14,3 +14,5 @@ ftp://e:e@dq.dl1234.com:8006/[电影天堂www.dy2018.com]黑客军团第一季�
 
 
 http://www.stuq.org/my/courses/study/1015
+
+http://edu.csdn.net/course/detail/2277
